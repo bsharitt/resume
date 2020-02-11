@@ -7,9 +7,7 @@ pandoc -f markdown -t html resume.md -o output/index.html
 pandoc -f markdown resume.md -o output/resume.pdf
 pandoc -f markdown -t odt resume.md -o output/resume.odt
 
-cp resume.md output/resume.md
-
-sed -i '1s/^/<a href="resume.docx">DOCX<\/a> <a href="resume.pdf">PDF<\/a> <a href="resume.odt">ODT<\/a> <a href="resume.md">Source<\/a>/' output/index.html
+sed -i '1s/^/<a href="resume.docx">DOCX<\/a> <a href="resume.pdf">PDF<\/a> <a href="resume.odt">ODT<\/a> <a href="https:\/\/github.com\/bsharitt\/resume">Source<\/a>/' output/index.html
 
 rm -rf /home/bsharitt/public_html/resume
 cp -r output /home/bsharitt/public_html/resume
