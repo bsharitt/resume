@@ -56,6 +56,13 @@ AAS, Information Systems Technology
 
 ---
 
+## Certifications
+
+**AWS Certified Security - Specialty** - *April 2020*  
+Amazon Web Services
+
+---
+
 ## Skills
 
 AWS, Docker, Kubernetes, Python, Linux, Chef, Terraform, Cloud, Ruby, Ansible
