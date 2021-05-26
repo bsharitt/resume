@@ -7,11 +7,11 @@ Murfreesboro, TN
 
 ## Experience
 
-**Blueshift - Site Reliability Engineer**
-*05/2021 - Present*
-* Managed AWS ECS Clusters
-* Managed services via OpsWorks
-* Maintained Elasticsearch and Cassandra clusters
+**Blueshift - Site Reliability Engineer**  
+*05/2021 - Present*  
+* Managed AWS ECS Clusters  
+* Managed services via OpsWorks  
+* Maintained Elasticsearch and Cassandra clusters  
 
 **SugarCRM - Site Reliability Engineer**  
 *08/2018 - 04/2021*  
