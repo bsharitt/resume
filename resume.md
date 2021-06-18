@@ -15,7 +15,7 @@ Murfreesboro, TN
 
 **SugarCRM - Site Reliability Engineer**  
 *08/2018 - 04/2021*  
-* Managed Kubernetes clusters in AWS and implemented logging, alerting, and metrics
+* Managed Kubernetes clusters in AWS and implemented logging, alerting, and metrics  
 * Fostered the increased use of Kubernetes environment by other teams  
 * Automated process of deploying and standing up new kubernetes clusters  
 * Administered Linux web environment hosting hundreds of customer instances  
