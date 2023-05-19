@@ -8,7 +8,7 @@ Murfreesboro, TN
 ## Experience
 
 **Refersion - Lead DevOps Engineer**  
-*07/2021 - Present*  
+*07/2021 - 12/2022*  
 * Introduced Terraform into existing environment to enable recrating environments for disaster recover and to create new environments easily  
 * Implemented Kubernetes in place of elastic beanstalk reducing the number of EC2 instances and streamlining developer access to running development applications  
 * Managed Aurora Postgres and MySQL database clusters  
