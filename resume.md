@@ -1,5 +1,5 @@
-### Brandon Sharitt
-brandon@sharitt.com  
+### Bridget Sharitt
+bridget@sharitt.com  
 Murfreesboro, TN  
 615-556-2723
 
