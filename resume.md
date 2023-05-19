@@ -14,7 +14,7 @@ Murfreesboro, TN
 * Implemented Kubernetes in place of elastic beanstalk reducing the number of EC2 instances and streamlining developer access to running development applications  
 * Managed Aurora Postgres and MySQL database clusters  
 
-*05/2021 - 07/2021*  
+*May 2021 - July 2021*  
 **Site Reliability Engineer**  
 *Blueshift*  
 * Managed AWS ECS Clusters  
