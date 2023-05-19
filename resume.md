@@ -77,4 +77,4 @@ Amazon Web Services
 
 ## Skills
 
-AWS, Docker, Kubernetes, Python, Linux, Chef, Terraform, Cloud, Ruby, Ansible
+AWS, Docker, Kubernetes, Python, Linux, Terraform, Cloud, DevOps, Automation
