@@ -33,7 +33,7 @@ Murfreesboro, TN
 
 *August 2014 - June 2017*    
 **Linux Systems Engineer**  
-*Franking American Mortgage Company*  
+*Frankin American Mortgage Company*  
 * Develop and manage key components of the automated orchestration infrastructure to for creation of dev, qa, and prod environments  
 * Write code in Ruby, Perl, Python, JavaScript, and shell script  
 * Support AWS and VMWare platforms  
