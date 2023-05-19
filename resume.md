@@ -25,7 +25,7 @@ Murfreesboro, TN
 **Franklin American Mortgage Company - Linux Systems Engineer**  
 *08/2014 - 06/2017*  
 * Develop and manage key components of the automated orchestration infrastructure to for creation of dev, qa, and prod environments  
-* Write code in Ruby, Perl, Python, JavaScript, Go and shell script  
+* Write code in Ruby, Perl, Python, JavaScript, and shell script  
 * Support AWS and VMWare platforms  
 * Linux and Windows system administration  
 * Configuration management with Chef  
