@@ -42,6 +42,23 @@ Murfreesboro, TN
 * Linux and Windows system administration  
 * Configuration management with Chef  
 
+**Lockheed Martin - Systems Administrator**  
+*08/2012 - 08/2014*  
+* Administer HPC batch clusters running Red Hat Linux  
+* Responsible for patching, configuration and security of systems administered  
+* Developed infrastructure for dynamic and automated cluster node deployment  
+
+**TecPort Solutions Inc - Systems Administrator**  
+*07/2010 - 08/2012*  
+* Linux, Solaris, VMWare and Windows system administration  
+* Servers support thousands of DoD customers around the world  
+* Responsible for security compliance and reporting  
+
+**United States Air Force - Information Systems Technician**  
+*04/2004 - 04/2010*  
+* Windows System administration  
+* Network Security boundary protection and security compliance  
+
 ---
 
 ## Education
@@ -60,4 +77,4 @@ Amazon Web Services
 
 ## Skills
 
-AWS, Docker, Kubernetes, Python, Linux, Terraform, Cloud, DevOps, Automation
+AWS, Docker, Kubernetes, Python, Linux, Chef, Terraform, Cloud, Ruby, Ansible
