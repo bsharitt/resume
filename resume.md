@@ -7,8 +7,11 @@ Murfreesboro, TN
 
 ## Experience
 
+**Refersion - Lead DevOps Engineer**  
+*07/2021 - Present*  
+
 **Blueshift - Site Reliability Engineer**  
-*05/2021 - Present*  
+*05/2021 - 07/2021*  
 * Managed AWS ECS Clusters  
 * Managed services via OpsWorks  
 * Maintained Elasticsearch and Cassandra clusters  
