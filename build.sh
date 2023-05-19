@@ -9,5 +9,8 @@ pandoc -f markdown -t odt resume.md -o output/resume.odt
 
 sed -i '1s/^/<a href="resume.docx">DOCX<\/a> <a href="resume.pdf">PDF<\/a> <a href="resume.odt">ODT<\/a> <a href="https:\/\/github.com\/bsharitt\/resume">Source<\/a>/' output/index.html
 
-rm -rf /home/bsharitt/public_html/resume
-cp -r output /home/bsharitt/public_html/resume
+if [ -d "/home/bsharitt/public_html/resume" ]
+then
+    rm -rf /home/bsharitt/public_html/resume
+    cp -r output /home/bsharitt/public_html/resume
+fi
