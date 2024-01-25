@@ -11,6 +11,7 @@ Murfreesboro, TN
 **Senior Platform Infrastructure Engineer**  
 *Olo*  
 * Improve experience for online developer environments  
+* Worked to implement more flexible kubernetes based developer environments
 
 *July 2021 - December 2022*  
 **Lead DevOps Engineer**  
