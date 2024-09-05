@@ -1,6 +1,6 @@
 ### Bridget Sharitt
 bridget@sharitt.com  
-Murfreesboro, TN  
+Rochester, NY
 615-556-2723
 
 ---
@@ -10,8 +10,9 @@ Murfreesboro, TN
 *March 2023 - Present*  
 **Senior Platform Infrastructure Engineer**  
 *Olo*  
+* Managed and improved Kubernetes infrastructure
 * Improve experience for online developer environments  
-* Worked to implement more flexible kubernetes based developer environments
+* Worked to implement more flexible Kubernetes based developer environments
 
 *July 2021 - December 2022*  
 **Lead DevOps Engineer**  
