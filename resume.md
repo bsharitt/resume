@@ -10,8 +10,8 @@ Rochester, NY
 **Olo - Senior Platform Infrastructure Engineer**  
 *March 2023 - September 2025*  
 * Managed and improved Kubernetes infrastructure  
-* Implemented ArgoCD for kubernetes CI/CD
-* Managed AWS resources with Terraform
+* Implemented ArgoCD for kubernetes CI/CD  
+* Managed AWS resources with Terraform  
 
 **Refersion - Lead DevOps Engineer**  
 *July 2021 - December 2022*  
