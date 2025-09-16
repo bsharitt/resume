@@ -8,10 +8,10 @@ Rochester, NY
 ## Experience
 
 **Olo - Senior Platform Infrastructure Engineer**  
-*March 2023 - Present*  
+*March 2023 - September 2025*  
 * Managed and improved Kubernetes infrastructure  
-* Improve experience for online developer environments  
-* Worked to implement more flexible Kubernetes based developer environments
+* Implemented ArgoCD for kubernetes CI/CD
+* Managed AWS resources with Terraform
 
 **Refersion - Lead DevOps Engineer**  
 *July 2021 - December 2022*  
