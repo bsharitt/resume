@@ -9,9 +9,11 @@ Rochester, NY
 
 **Olo - Senior Platform Infrastructure Engineer**  
 *March 2023 - September 2025*  
-* Managed and improved Kubernetes infrastructure  
-* Implemented ArgoCD for kubernetes CI/CD  
-* Managed AWS resources with Terraform  
+* Managed and improved Kubernetes infrastructure 
+* Worked with ArgoCD, GitHub Actions, Octopus, and TeamCity CI/CD 
+* Managed AWS resources with Terraform and Crossplane 
+* Worked with developer teams to migrate applications to modern Kubernetes infrastructure 
+* Supported Prometheus alerting stack along side Datadog 
 
 **Refersion - Lead DevOps Engineer**  
 *July 2021 - December 2022*  
@@ -54,7 +56,7 @@ Rochester, NY
 * Servers support thousands of DoD customers around the world  
 * Responsible for security compliance and reporting  
 
-**April 2004 - April 2010 - Information Systems Technician**  
+**United States Air Force - Information Systems Technician**  
 *April 2004 - April 2010*  
 * Windows System administration  
 * Network Security boundary protection and security compliance  
